@@ -1,2 +1,2 @@
 # Modelacion-Numerica-Sassano
-Material de Modelación Numérica  - (Cátedra Sassano , 2C2025) | Ejercicios, TP, Parcial, Final 
+Material de Modelación Numérica  - (Cátedra Sassano , 2C2025) | Resumen, TP, Parcial, Final 
